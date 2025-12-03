@@ -1,16 +1,51 @@
-# React + Vite
+# GlowBites 🌌🍴
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **GlowBites**, a futuristic, immersive dining experience brought to the web!
 
-Currently, two official plugins are available:
+Built with **React** and **Vite**, GlowBites is designed to be fast, responsive, and visually striking.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## About
+GlowBites is a conceptual restaurant website that combines futuristic visuals, interactive menus, and a unique brand identity. It aims to give visitors a taste of a sci-fi culinary world with a neon glow aesthetic.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Features
+- 🌌 Futuristic, neon-inspired design  
+- 🍽 Interactive menu browsing  
+- ✨ Smooth animations and transitions  
+- 📱 Fully responsive for desktop and mobile  
+- 🛠 Built with modern web technologies  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies
+- **React** – Frontend library for building UI
+- **Vite** – Lightning-fast build tool
+- **React Router** – Navigation
+
+---
+
+## Project Structure
+src
+├── App.jsx
+├── assets
+│   ├── food1.jpg
+│   ├── food2.jpg
+│   ├── food3.jpg
+│   ├── food4.jpg
+│   ├── food5.jpg
+│   ├── food6.jpg
+│   ├── food7.jpg
+│   └── food8.jpg
+├── components
+│   └── Header.jsx
+├── index.css
+├── main.jsx
+├── pages
+│   ├── Home.jsx
+│   ├── Menu.jsx
+│   ├── Order.jsx
+│   └── OrderComplete.jsx
+└── theme.js
