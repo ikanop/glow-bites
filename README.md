@@ -1,31 +1,10 @@
-# GlowBites 🌌🍴
+# Glow Bites
 
-Welcome to **GlowBites**, a futuristic, immersive dining experience brought to the web!
+A futuristic restaurant website built with **React**, featuring a menu, a fake order system, and a stylish home page.
 
-Built with **React** and **Vite**, GlowBites is designed to be fast, responsive, and visually striking.
+## Live Demo
 
----
-
-## About
-GlowBites is a conceptual restaurant website that combines futuristic visuals, interactive menus, and a unique brand identity. It aims to give visitors a taste of a sci-fi culinary world with a neon glow aesthetic.  
-
----
-
-## Features
-- 🌌 Futuristic, neon-inspired design  
-- 🍽 Interactive menu browsing  
-- ✨ Smooth animations and transitions  
-- 📱 Fully responsive for desktop and mobile  
-- 🛠 Built with modern web technologies  
-
----
-
-## Technologies
-- **React** – Frontend library for building UI
-- **Vite** – Lightning-fast build tool
-- **React Router** – Navigation
-
----
+Check out the site here: https://glow-bites.netlify.app
 
 ## Project Structure
 ```
