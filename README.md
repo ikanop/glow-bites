@@ -28,6 +28,7 @@ GlowBites is a conceptual restaurant website that combines futuristic visuals, i
 ---
 
 ## Project Structure
+```
 src
 ├── App.jsx
 ├── assets
@@ -48,4 +49,4 @@ src
 │   ├── Menu.jsx
 │   ├── Order.jsx
 │   └── OrderComplete.jsx
-└── theme.js
+└── theme.js```
